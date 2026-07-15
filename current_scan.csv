@@ -1,0 +1,2 @@
+SSID,BSSID,RSSI,Channel,Security,Threat_Score,Signal_Pattern_Score,ML_Risk,Combined_Risk,Cloud_Reputation_Hit,Cloud_Risk_Score,Cloud_Threat_Type,Fingerprint_Similarity,RF_Prediction,KNN_Prediction,Threat_Vectors,Signal_History,Threat_Level,Threshold_Mode
+ro3,76:f0:fa:35:04:4a:,-36.5,5180000,WPA2,33.0,0.0,50.0,28.2,False,0.0,,100,Normal,Normal,"{""Scan Consistency"": 91.0, ""Open Network"": 15.0, ""RSSI Proximity"": 100.0, ""Multi-BSSID"": 10.0, ""Channel Flux"": 5.0, ""Cloud Reputation"": 0.0}","[-37.0, -37.0, -40.0, -40.0, -38.0, -38.0, -31.0, -31.0]",SAFE,warming_up
